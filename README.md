@@ -1,1 +1,1 @@
-# Kuber
+Finannce app
